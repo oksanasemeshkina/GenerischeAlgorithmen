@@ -8,7 +8,7 @@ import java.util.Collections;
  * Created by Oksana on 29.10.2016.
  */
 class GenAlgorithmus {
-
+//testttttttttttttttt
     final int GENCOUNT = 101 //Anzahl Bits bei jedem Individuum
     final int POPULATIONSIZE = 103 //Anzahl der Individuen in the Population
     final RUN_COUNT = 150
