@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cb8cdbe-099c-46f8-bf8a-168777654fd8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GenerischeAlgorithmen/GenAlgorithmus.class" afterPath="$PROJECT_DIR$/out/production/GenerischeAlgorithmen/GenAlgorithmus.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GenerischeAlgorithmen.iml" afterPath="$PROJECT_DIR$/GenerischeAlgorithmen.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GenAlgorithmus.groovy" afterPath="$PROJECT_DIR$/src/GenAlgorithmus.groovy" />
     </list>
     <ignored path="GenerischeAlgorithmen.iws" />
@@ -37,11 +37,12 @@
       <file leaf-file-name="GenAlgorithmus.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="164">
+              <caret line="115" column="49" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
               <folding>
-                <element signature="e#0#38#0" expanded="true" />
-                <element signature="e#152#195#0" expanded="false" />
+                <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+                <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+                <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -112,7 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,6 +142,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GenerischeAlgorithmen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GenerischeAlgorithmen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -155,7 +170,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -635,41 +650,54 @@
       <workItem from="1478680658180" duration="2261000" />
       <workItem from="1478710490372" duration="267000" />
       <workItem from="1478710804518" duration="154000" />
+      <workItem from="1478712541401" duration="1808000" />
+      <workItem from="1478768485375" duration="2217000" />
+      <workItem from="1478773322426" duration="17108000" />
+      <workItem from="1479150971712" duration="2906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120738000" />
+    <option name="totallyTimeSpent" value="144777000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46422893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3006431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35552195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18986385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5100942" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40996784" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -685,63 +713,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>209</line>
-          <properties />
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>231</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>408</line>
-          <properties />
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>245</line>
-          <properties />
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>190</line>
-          <properties />
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>213</line>
-          <properties />
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>252</line>
-          <properties />
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GenAlgorithmus.groovy</url>
-          <line>235</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="67" />
+      <option name="time" value="108" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -755,8 +727,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -766,8 +739,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -777,68 +751,57 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
     <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
     <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
     <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
     <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -849,8 +812,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -861,8 +825,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -873,8 +838,74 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -886,8 +917,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -899,8 +931,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -912,8 +945,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -924,8 +958,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -936,8 +971,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -947,13 +983,37 @@
     <entry file="file://$PROJECT_DIR$/../MLE_HillClimbing/src/HillClimbing.groovy" />
     <entry file="jar://$APPLICATION_HOME_DIR$/apache-groovy-sdk-2.4.7/groovy-2.4.7/lib/groovy-2.4.7.jar!/org/codehaus/groovy/runtime/callsite/AbstractCallSite.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="456" column="19" selection-start-line="456" selection-start-column="19" selection-end-line="456" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/groovy-2.4.7/lib/groovy-2.4.7.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="764" column="24" selection-start-line="764" selection-start-column="24" selection-end-line="764" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GenAlgorithmus.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="164">
+          <caret line="115" column="49" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#152#195#0" expanded="false" />
+            <element signature="n#!!block;n#main#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#calculateFitnes#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
+            <element signature="n#!!block;n#selectHypothesis#0;n#!!block;n#GenAlgorithmus#0" expanded="false" />
           </folding>
         </state>
       </provider>
